@@ -1,6 +1,6 @@
 **Diabetic Disease Classification with Hybrid and Blending Models**
 Project Overview
-This project focuses on developing a classification system for diabetic disease using advanced machine learning techniques.
+This project focuses on developing a classification system for diabetic disease using advanced machine learning echniques.
 We propose three system models, including two hybrid models and one blending model, to improve prediction accuracy and reliability.
 The workflow includes data preprocessing, handling class imbalance, training deep learning models, and evaluating their performance through rigorous validation techniques.
 
@@ -27,6 +27,7 @@ Repository Structure
         notebooks/: Contains notebooks for preprocessing, training, and evaluation
         results/: Model evaluation reports and visualizations
         README.md: Overview of the project and instructions
+        
 Results
         Implemented three proposed system models: two hybrid models and one blending model
         Achieved improved classification accuracy compared to baseline models
